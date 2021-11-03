@@ -1,1 +1,1 @@
- puts "HELLO WORD"
+ puts 'HELLO WORD'
